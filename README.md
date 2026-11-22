@@ -1,16 +1,44 @@
-## Hi there 👋
+Hi, I'm Park Seon 👋
 
-<!--
-**onioni47/onioni47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering Student at HUFS
 
-Here are some ideas to get you started:
+I'm an undergraduate student interested in computer science, technology, and data-driven services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm exploring how technology and AI can be applied to real-world industries, especially healthcare and biotechnology.
+
+🎓 Education
+
+Hankuk University of Foreign Studies (HUFS)
+
+Major: Computer Engineering
+
+💻 Tech Stack
+
+Languages: Python, JavaScript
+
+Web: HTML, CSS
+
+Tools: Git, GitHub, VS Code
+
+🌱 Currently Learning
+
+Data Structures & Algorithms
+
+Web Development
+
+Python Programming
+
+🎯 Interests
+
+Artificial Intelligence
+
+Healthcare & Biotechnology
+
+Data Analysis
+
+Technology-driven Business
+
+📫 Connect with me
+
+GitHub: @onioni47
+email : 20250203@hufs.ac.kr
