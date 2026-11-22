@@ -41,4 +41,5 @@ Technology-driven Business
 📫 Connect with me
 
 GitHub: @onioni47
+
 email : 20250203@hufs.ac.kr
