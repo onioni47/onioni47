@@ -40,7 +40,13 @@ Data Analysis
 
 Technology-driven Business
 
-📫 Connect with me
+## Projects
+
+Game Development Project
+
+Personal Web Portfolio
+
+##📫 Connect with me
 
 GitHub: @onioni47
 
