@@ -46,7 +46,7 @@ Game Development Project
 
 Personal Web Portfolio
 
-##📫 Connect with me
+## 📫 Connect with me
 
 GitHub: @onioni47
 
