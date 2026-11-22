@@ -30,6 +30,8 @@ Python Programming
 
 🎯 Interests
 
+Web Programming
+
 Artificial Intelligence
 
 Healthcare & Biotechnology
@@ -42,4 +44,4 @@ Technology-driven Business
 
 GitHub: @onioni47
 
-email : 20250203@hufs.ac.kr
+Email : 20250203@hufs.ac.kr
