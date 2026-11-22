@@ -1,4 +1,4 @@
-Hi, I'm Park Seon 👋
+ # Hi, I'm Park Seon 👋
 
 Computer Engineering Student at HUFS
 
@@ -6,13 +6,13 @@ I'm an undergraduate student interested in computer science, technology, and dat
 
 I'm exploring how technology and AI can be applied to real-world industries, especially healthcare and biotechnology.
 
-🎓 Education
+## 🎓 Education
 
 Hankuk University of Foreign Studies (HUFS)
 
 Major: Computer Engineering
 
-💻 Tech Stack
+## 💻 Tech Stack
 
 Languages: Python, JavaScript
 
@@ -20,15 +20,15 @@ Web: HTML, CSS
 
 Tools: Git, GitHub, VS Code
 
-🌱 Currently Learning
+## 🌱 Currently Learning
 
-Data Structures & Algorithms
+Algorithms
 
 Web Development
 
 Python Programming
 
-🎯 Interests
+## 🎯 Interests
 
 Web Programming
 
