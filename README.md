@@ -42,8 +42,6 @@ Technology-driven Business
 
 ## Projects
 
-Game Development Project
-
 Personal Web Portfolio
 
 ## 📫 Connect with me
